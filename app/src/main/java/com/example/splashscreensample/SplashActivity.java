@@ -19,7 +19,7 @@ public class SplashActivity extends AppCompatActivity {
                 Intent iHome = new Intent(SplashActivity.this,MainActivity.class);
                 startActivity(iHome);
             }
-        }, 4000);
+        }, 3500);
 
 
 

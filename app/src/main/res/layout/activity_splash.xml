@@ -9,9 +9,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BMI"
+        android:text="Splash Screen"
+        android:padding="12dp"
         android:textColor="#082AE6"
-        android:textSize="60sp"
+        android:textSize="50sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -22,7 +23,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Track Your Fittness Journey"
+        android:text="Displayed for 2.5 seconds"
         android:textColor="@color/black"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -35,7 +36,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Track Your Journey"
+        android:text="This is a Splash Screen"
         android:textColor="@color/black"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -48,7 +49,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Calculater"
+        android:text=" "
         android:textColor="#03167E"
         android:textSize="22sp"
         android:textStyle="italic"
